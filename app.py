@@ -6,3 +6,5 @@ app = Flask(__name__)
 def hello():
     return "Hi! this is the locator app 1"
 
+app.run()
+
