@@ -59,8 +59,8 @@ class client_locator:
                 print(f'We couldn\'t find {name}\'s location :(\n')
 
 
-if __name__ == '__main__':
-    locator = client_locator()
+# if __name__ == '__main__':
+#     locator = client_locator()
 
-    while True:
-        locator.find_someone_or_exit()
+#     while True:
+#         locator.find_someone_or_exit()
