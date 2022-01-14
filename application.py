@@ -1,8 +1,10 @@
 from flask import Flask, request
+import excel_tools
 
 application = Flask(__name__)
 
 @application.route("/")
 def hello():
-    return "Hi, Welcome to the locator app"
+    x = excel_tools.foo(3)
+    return f"Hi, Welcome to the locator app version {x}."
 
