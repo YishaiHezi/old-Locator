@@ -4,5 +4,5 @@ application = Flask(__name__)
 
 @application.route("/")
 def hello():
-    return "יעל ועידןןןןןן!"
+    return "Hi, Welcome to the locator app"
 
