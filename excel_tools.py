@@ -2,6 +2,10 @@
 # from xlutils.copy import copy
 
 
+def foo(x):
+  return x*2
+
+
 # class Excel_tools:
 
 #     def __init__(self):
