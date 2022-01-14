@@ -1,8 +1,8 @@
-# from flask import Flask
+from flask import Flask
 
-# application = Flask(__name__)
+app = Flask(__name__)
 
-# @application.route("/")
-# def hello():
-#     return "יעל ועידןןןןןן"
+@app.route("/")
+def hello():
+    return "יעל ועידןןןןןן"
 
