@@ -6,4 +6,3 @@ application = Flask(__name__)
 def hello():
     return "יעל ועידןןןןןן"
 
-
