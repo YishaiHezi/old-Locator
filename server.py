@@ -1,16 +1,16 @@
 # from address_excel_tools import Addresses_Excel_Tools
 # from names_excel_tools import Names_Excel_Tools
-from flask import Flask#, request
+#from flask import Flask, request
 #
 #
 # addresses_tools = Addresses_Excel_Tools()
 # names_tools = Names_Excel_Tools()
 #
 #
-app = Flask(__name__)
-@app.route('/')
-def index():
-    return 'Hello! This is the locator app.'
+# app = Flask(__name__)
+# @app.route('/')
+# def index():
+#     return 'Hello! This is the locator app.'
 #
 #
 # @app.route('/macs', methods=['POST'])
