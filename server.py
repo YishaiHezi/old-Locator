@@ -12,7 +12,7 @@
 # def index():
 #     return 'Hello! This is the locator app.'
 #
-#
+
 # @app.route('/macs', methods=['POST'])
 # def write_mac():
 #     input_json = request.get_json()
