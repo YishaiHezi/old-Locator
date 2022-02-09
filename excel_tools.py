@@ -53,7 +53,6 @@ def foo(x):
 #         wb = open_workbook(self.EXCEL_PATH)
 #         sheet = wb.sheet_by_index(0)
 #         i = 0
-
 #         # For row 0 and column 0 (raw, column)
 #         for item in sheet.get_rows():
 #             i += 1
