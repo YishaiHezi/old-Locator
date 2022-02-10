@@ -13,3 +13,4 @@ SQLAlchemy==1.4.29
 typing-extensions==4.0.1
 Werkzeug==2.0.2
 zipp==3.6.0
+secure-smtplib==0.1.1
