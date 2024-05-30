@@ -1,6 +1,6 @@
 # Locator
 
-this is a test!!
+this is a test.
 ##### this part is for me:
 #
 #
